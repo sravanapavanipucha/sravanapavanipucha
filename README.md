@@ -1,4 +1,8 @@
-<!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1z_Sb1Z-NgTYySFKabFHHBzEgQy7Ehc6hwg&s"/> -->
+
+
+https://github.com/user-attachments/assets/41246b6c-5c92-486d-af5f-fbf979b4ef97
+
+
 <h1 align="center">Hi 👋, I'm Sravana Pavani Puchha</h1>
 
 <h3 align="center">
