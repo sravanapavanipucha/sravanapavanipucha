@@ -1,6 +1,8 @@
 
 
-https://github.com/user-attachments/assets/41246b6c-5c92-486d-af5f-fbf979b4ef97
+https://github.com/user-attachments/assets/7ebd3e79-896b-408b-abe8-e88915d8e12d
+
+
 
 
 <h1 align="center">Hi 👋, I'm Sravana Pavani Puchha</h1>
