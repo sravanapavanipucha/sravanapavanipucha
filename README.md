@@ -1,12 +1,6 @@
 
 
-https://github.com/user-attachments/assets/7ebd3e79-896b-408b-abe8-e88915d8e12d
-
-
-
-
 <h1 align="center">Hi 👋, I'm Sravana Pavani Puchha</h1>
-
 <h3 align="center">
 AI/ML Engineer | Data Analytics 
 </h3>
