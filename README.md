@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sravana Pavani Puchha</h1>
 
 <h3 align="center">
-AI/ML Engineer | Data Analytics | Computer Vision
+AI/ML Engineer | Data Analytics 
 </h3>
 
 <p align="center">
